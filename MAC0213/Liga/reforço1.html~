@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Liga Solidária</title>
+	<meta name="description" content="">  
+	<meta name="author" content="Arthur Branco Costa">
+
+	<base href="/~arthbr/"></base>
+   <!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">  
+	<link rel="stylesheet" href="css/media-queries.css"> 
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script> 
+	$(function(){
+	  $("#nav").load("nav.html"); 
+	  $("#sidebar").load("sidebar.html");
+	  $("#footer").load("footer.html");
+	});
+	</script> 
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="top">
+
+   	<div class="row">
+
+   		<div class="header-content twelve columns">
+
+		      <h1 id="logo-text"><a href="index.html" title="">Projeto Novo Mundo</a></h1>
+				<p id="intro">A ABEUNI (Aliança Beneficente Universitária) é uma entidade filantrópica, sem fins lucrativos, composta por universitários e formados em diferentes áreas. <http://www.abeuni.org.br/novosite/></p>
+
+			</div>			
+	   </div>
+
+	<div id="nav"></div>		   
+   </header> <!-- Header End -->
+   
+   <!-- Content
+   ================================================== -->
+   <div id="content-wrap">
+
+   	<div class="row">
+
+   		<div id="main" class="eight columns">
+
+   			<article class="entry">
+				<header class="entry-header">
+					<h2 class="entry-title">1º Reforço</h2>					<div class="entry-meta">
+						<ul>
+							<li>28 de Abril de 2015</li>
+							<span class="meta-sep">&bull;</span>								
+							<li><a href="http://www.abeuni.org.br/novosite/index.php/eventos/agenda/icalrepeat.detail/2015/03/22/16/-/31-atividade-do-novo-mundo-no-pac?filter_reset=1" title="" rel="category tag">Novo Mundo</a></li>
+							<span class="meta-sep">&bull;</span>
+							<li><a href="http://blog.projetopac.org.br/" title="" rel="category tag">PAC</a></li>
+							</ul>
+					</div> 			 
+				</header>
+
+				<div class="entry-content">
+					<p>Cheguei no abrigo, me apresentei às cuidadoras, que me indicaram a brinquedoteca para eu realizar as atividades. Sentei à mesa, peguei um lápis e um caderno e fui chamando as crianças. Quatro vieram mais uma voluntária alemã, que também vai às terças. A princípio, fui designado a auxiliá-los com o aprendizado de matemática. Logo de início, porém, me deparei com deficiências cognitivas de alguns. Como T., por exemplo, de 14 anos que não sabia ler e escrever. Desse modo, abstraí um pouco a ideia de reforço matemático e decidi abrir o leque. Assim, dei uma atividade diferente a cada um: para T. passei o abecedário para ela copiar e fiquei lhe ensinando palavras simples e leitura silábica; para C. focamos em somas de vários algarismos; para V., que era o mais novo (11 anos), passei exercícios de raiz quadrada, que era o que ele estava vendo na escola; J. chegou depois e me pediu ensinamentos de inglês, então fiquei ensinando-lhe palavras e expressões básicas. E na mesma mesa tivemos estudos variados, mas bastante cooperativos, eles incentivaram bem uns aos outros, o que foi bastante positivo e produtivo. Ficamos por uma hora nos estudos, até nos chamaram para comer um pão na chapa, chocolate-quente e bolachas. Após o lanche, algumas se dispersaram e foram jogar bola. Continuei então com T., V. e chegou da escolinha o D., o mais novinho do grupo (9 anos), que se juntou a nós e começou a fazer os exercícios que passei das quatro operações básicas. Rolou um certo atrito entre T. e D., mas conseguimos desenvolver os estudos até dar o meu horário. Me despedi então e na saída relatei um pouco a uma das cuidadoras como foi o trabalho e ela me deu alguns conselhos e dicas sobre as crianças. Assim, me despedi e voltei para casa. Pretendo, agora que os conheci e vi mais ou menos em que pé andam seus aprendizados, preparar e coletar alguns exercícios específicos a cada um e levá-los na próxima terça (05/05).
+</p>
+				</div> 
+			</article> <!-- end entry -->
+
+			<div class="pagenav">
+	            <p>
+	            <a rel="prev" href="MAC0213/Liga/contato.html">Anterior</a>   	
+	            <a rel="next" href="MAC0213/Liga/reforço2.html">Próximo</a>
+	            </p>
+            </div> 
+
+		</div> <!-- main End -->
+		
+		<div id="sidebar"></div>
+
+   	</div> <!-- end row -->
+   </div> <!-- end content-wrap -->
+	   
+	<div id="footer"></div>
+	
+	  <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>  
+   <script src="js/main.js"></script>
+
+</body>
+</html>
